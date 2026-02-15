@@ -1,0 +1,10 @@
+name = "Mensur"
+print(name)
+
+name = "Demiri"
+print(name)
+
+#print(len(input("Kako se zoveš? ")))
+name2 = input("Kako se zoveš? ")
+length = len(name2)
+print(length)
